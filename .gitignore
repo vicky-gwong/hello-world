@@ -1,0 +1,13 @@
+Alumno.class
+Principal.class
+
+# Compilados Java
+*.class
+
+# Swap files (vim)
+*.swp
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
