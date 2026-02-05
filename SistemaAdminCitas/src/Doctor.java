@@ -1,4 +1,4 @@
 public class Doctor {
-    static String nombre;
-    static String especialidad;
+    public String nombre;
+    public String especialidad;
 }
