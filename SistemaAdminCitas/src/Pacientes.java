@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class Pacientes {
+    public String nombre;
+    public String ID;
+
 }
